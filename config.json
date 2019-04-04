@@ -1,0 +1,7 @@
+{
+  "token" : "NTU0Mjk2MzU0MjE4NzA0ODk2.XKV3Vg.582RxbmVlk5boy3n-vl7d1ApFn8",
+  "ms" : 1500,
+  "roleToDisco" : ["Role to color change goes here", "(optional) another role to disco goes here"],
+  "prefix" : "d!",
+  "allowedUsers" : ["490404894071717930"]
+}
